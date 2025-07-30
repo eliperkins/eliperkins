@@ -5,8 +5,8 @@ Howdy, I'm Eli, polyglot engineering leader with a specialty in iOS and Apple pl
 ### About Me
 
 - 📱 I've been an iOS engineer since 2010.
-- 🐈 I have a chatty Siamese cat named Atticus and a energy-filled Golden Retriever name Samson.
-- 👾 I'm a big fan of RTS and FPS video games (currently playing: StarCraft 2, League of Legends, Call of Duty, CFB25). I fell in love with esports like StarCraft 2 and Dota.
+- 🐈 I have a chatty Siamese cat named Atticus and a energy-filled Golden Retriever named Samson.
+- 👾 I'm a big fan of RTS and FPS video games (currently playing: CFB '26, StarCraft 2, League of Legends, Call of Duty). I fell in love with esports like StarCraft 2 and Dota.
 - 🍻 I enjoy brewed beverages like :coffee: and :beer:.
 
 ## 👋 Getting Started (aka Communicating With Me)
@@ -116,9 +116,7 @@ See also "Troubleshooting > Be honest and direct"
 
 ## 🕰 Working Hours
 
-My usual working hours are 8am-6pm [MST/MDT](https://dateful.com/convert/mst-mdt-mountain-time?t=8am&tz2=UTC), Monday-Thursday. I'm working 4-day work weeks, but still working 40 hours a week. Mondays are my focus days, and Tuesdays and Wednesdays are my meeting days.
-
-If I am out-of-office on a Monday, or if a Monday is a public holiday, I'll shift my working days to be Tuesday-Friday, with Friday being an 6-8 hour day, to make up for a lack of personal focus time.
+My usual working hours are 9am-5pm [MST/MDT](https://dateful.com/convert/mst-mdt-mountain-time?t=9am&tz2=UTC), Monday-Friday.
 
 I'm based in Denver, CO, USA (UTC-07:00). I'm not a morning person, but my most productive hours are 10am-1pm.
 
