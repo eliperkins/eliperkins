@@ -16,7 +16,7 @@ Howdy, I'm Eli, polyglot engineering leader with a specialty in iOS and Apple pl
 #### 🖥 I always prefer async communication
 
 - Ask me your questions on Slack!
-- Documenting things in GitHub is the best way to ensure a global team like ours is fully informed.
+- Documenting things in GitHub is the best way to ensure a global team is fully informed.
   - I come from a project management background so I quite enjoy putting together issues, subtasks, sprints, epics, milestones, Gantt charts, or whatever else will help our team stay up-to-date across timezones.
 - [Please don't say just "hello" in Slack and wait for me to respond](https://nohello.net/en/). Ask me your question and I'll gladly respond. [If you just message me "hi" and nothing else, I assume I'm getting fired.](https://theoutline.com/post/4225/if-you-just-message-hi-and-nothing-else-i-assume-im-getting-fired?zd=1&zi=nbcfwgbk)
 
@@ -25,7 +25,7 @@ Howdy, I'm Eli, polyglot engineering leader with a specialty in iOS and Apple pl
 - I prefer talking in open channels rather than DM, so that all involved parties can be informed about what's going on. This includes not only public Slack channels, but discussions in places like GitHub issues, pull requests, and discussions as well.
 - Default to the relevant public channel first. Only Slack DM if it's sensitive, personal or extremely off-topic.
 
-#### 📥 Find a bug? Want a feature? Put it in a GitHub Issue and kick it over to me
+#### 📥 Find a bug? Want a feature? Put it in a GitHub / Linear Issue and kick it over to me
 
 - This gets back to the public communication bit. I might not be the one to fix your bug or implement your feature! Write it down so we all know where to go.
 
@@ -41,20 +41,20 @@ Howdy, I'm Eli, polyglot engineering leader with a specialty in iOS and Apple pl
 
 ### Communication Channels
 
-I default to async communication, especially with our distributed team (from Berlin to SF and many timezones in-between).
+I default to async communication, especially with a distributed team and many timezones in-between.
 
 In order of preference, sans urgency:
 
 1. Slack Public Channel
-1. GitHub Issue/PR/Discussion
-1. Zoom
+1. GitHub Issue/PR/Discussion / Linear Issue
+1. Zoom / Google Meet
 1. Slack DM (to directly me, via a group DM, or via a private channel)
 1. Email
 
 For urgent things:
 
 1. Slack DM
-1. Zoom
+1. Zoom / Google Meet
 
 ## 🏃‍ Maintenance and Care
 
